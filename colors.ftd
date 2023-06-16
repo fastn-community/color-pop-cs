@@ -1,6 +1,5 @@
-;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
-light: #faebd7
+light: #fff
 dark: #240002
 
 -- ftd.color step-1-:
@@ -12,8 +11,8 @@ light: #faad7b
 dark: #3e0e11
 
 -- ftd.color overlay-:
-light: rgba(0, 0, 0, 0.8)
-dark: rgba(0, 0, 0, 0.8)
+light: #222
+dark: #222
 
 -- ftd.color code-:
 light: #eaeaea
@@ -35,16 +34,16 @@ light: #D9D9D9
 dark: #3e0306
 
 -- ftd.color text-:
-light: #707070
+light: #666
 dark: #D9D9D9
 
 -- ftd.color text-strong-:
-light: #333333
-dark: #FFFFFF
+light: #222
+dark: #fff
 
 -- ftd.color shadow-:
-light: #6f0100
-dark: #6f0100
+light: #FF6928
+dark: #FF6928
 
 -- ftd.color scrim-:
 light: #393939
