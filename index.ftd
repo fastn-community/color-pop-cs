@@ -19,7 +19,7 @@ name: default-colors
 -- cd.package: THEME
 name: `color-pop-cs`
 logo: $assets.files.static.fastn-logo.svg
-subtitle: Adding warmth and energy to your designs with the `color-pop-cs` Color Scheme
+subtitle: color-pop-cs: color scheme
 colors: $colors-data
 types: $typo.types
 
